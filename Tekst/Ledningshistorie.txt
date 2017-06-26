@@ -1,0 +1,7 @@
+Ledning som deler seg i en hvit på terminal 22 og gull med grønne striper på terminal 54. 
+Ledning som deler seg i hvit på terminal 22 og sort på terminal 55 (samme som ledning over).
+Ledning som deler seg i gul med grønne striper på terminal 59 og rød på terminal 25.
+Ledning som deler seg i gul med grønne striper på terminal 56 og gul på terminal 57.
+Ledning som deler seg med sort på terminal 56 og blå på terminal 57.
+Gul bøyle mellom 62 og 67
+
