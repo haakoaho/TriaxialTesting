@@ -23,6 +23,11 @@ Runs a measurment specified in setTestProcedure with the calibration
 factors found with findCalibrationFactor. Create a .txt file and 
 set the path to that file. Make sure you set enough samples to get
 a smooth wave in the graph.  
+If you don't know what to set, then set this values:
+input rate:5000
+update generation rate:10 000
+samples to read:5000
+if you keep getting underflow error, try adjusting this numbers.
 
 When using PCI 6014, have a wire beteween 34 and 4, so you have a ground
 reference.
