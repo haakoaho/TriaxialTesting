@@ -23,3 +23,10 @@ Runs a measurment specified in setTestProcedure with the calibration
 factors found with findCalibrationFactor. Create a .txt file and 
 set the path to that file. Make sure you set enough samples to get
 a smooth wave in the graph.  
+
+When using PCI 6014, have a wire beteween 34 and 4, so you have a ground
+reference.
+
+
+Håkon Arnø Hoff
+haakoaho@stud.ntnu.no
